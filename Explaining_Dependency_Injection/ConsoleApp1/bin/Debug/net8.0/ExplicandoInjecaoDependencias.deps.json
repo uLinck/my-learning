@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExplicandoInjecaoDependencias/1.0.0": {
+        "runtime": {
+          "ExplicandoInjecaoDependencias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExplicandoInjecaoDependencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

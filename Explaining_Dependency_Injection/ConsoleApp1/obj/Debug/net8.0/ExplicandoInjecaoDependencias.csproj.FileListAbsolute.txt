@@ -1,0 +1,14 @@
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.AssemblyInfoInputs.cache
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.AssemblyInfo.cs
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.csproj.CoreCompileInputs.cache
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ExplicandoInjecaoDependencias.exe
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ExplicandoInjecaoDependencias.deps.json
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ExplicandoInjecaoDependencias.runtimeconfig.json
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ExplicandoInjecaoDependencias.dll
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ExplicandoInjecaoDependencias.pdb
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.dll
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ExplicandoInjecaoDependencias.dll
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.pdb
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ExplicandoInjecaoDependencias.genruntimeconfig.cache
+C:\Users\linck\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ExplicandoInjecaoDependencias.dll
